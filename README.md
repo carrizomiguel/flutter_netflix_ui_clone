@@ -9,6 +9,10 @@ flutter pub get
 flutter run
 ```
 
+## Links
+### Github Page
+* [Flutter Netflix UI](https://carrizomiguel.github.io/netflix_web_github_page/)
+
 ## Previews
 
 ### Web
